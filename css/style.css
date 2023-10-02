@@ -1,0 +1,61 @@
+.food-masti-logo {
+    width: 80px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+.banner-section-bg-container {
+    height: 100vh;
+    background-image: url("https://img.freepik.com/premium-photo/explore-vibrant-tastes-brazilian-cuisine-unforgettable-culinary_974154-26.jpg?size=626&ext=jpg&uid=R105847189&ga=GA1.1.368126606.1686044370&semt=ais");
+    background-size: cover;
+}
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: 300;
+}
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 300;
+}
+.custom-button {
+    color: white;
+    height: 40px;
+    width: 130px;
+    background-color: #d0d200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+
+}
+.custom-outline-button {
+    width: 130px;
+    height: 40px;
+    color: #d0d200;
+    background-color: transparent;
+    border-width: width;
+    border-style: solid;
+    border-color: #d0d200;
+    border-radius: 8px;
+}
